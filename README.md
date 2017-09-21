@@ -6,5 +6,6 @@ For the contest, I created WatNews, a mobile application that pulls data from th
 1) Install Qt Creator. </br> 
 2) Open .pro file (it should automatically open in QT). </br> 
 3) Download a mobile emulator kit (android or iphone). </br> 
-4) Choose the emulator kit in QT and run the app. </br> 
+4) Choose the emulator kit in QT and run the app. </br></br>
 
+Watch the application in action: https://www.youtube.com/watch?v=ywPzqQH72K4
